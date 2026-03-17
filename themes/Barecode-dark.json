@@ -1,9 +1,9 @@
 {
-	"name": "Barecode Dark",
+	"name": "Barecode Soft Dark",
 	"type": "dark",
 	"semanticHighlighting": false,
 	"colors": {
-		"editor.background": "#0e0e0e",
+		"editor.background": "#111111",
 		"editor.foreground": "#909090",
 		"editorCursor.foreground": "#f0f0f0",
 		"editor.lineHighlightBackground": "#161616",
@@ -18,98 +18,82 @@
 		"editorWhitespace.foreground": "#1a1a1a",
 		"editorBracketMatch.background": "#2a2a2a",
 		"editorBracketMatch.border": "#404040",
-
-		"activityBar.background": "#0e0e0e",
+		"activityBar.background": "#111111",
 		"activityBar.foreground": "#505050",
 		"activityBar.inactiveForeground": "#303030",
 		"activityBarBadge.background": "#909090",
-		"activityBarBadge.foreground": "#0e0e0e",
-
-		"sideBar.background": "#0e0e0e",
+		"activityBarBadge.foreground": "#111111",
+		"sideBar.background": "#111111",
 		"sideBar.foreground": "#505050",
 		"sideBarTitle.foreground": "#606060",
-		"sideBarSectionHeader.background": "#0e0e0e",
+		"sideBarSectionHeader.background": "#111111",
 		"sideBarSectionHeader.foreground": "#606060",
-
 		"list.activeSelectionBackground": "#1e1e1e",
 		"list.activeSelectionForeground": "#a0a0a0",
 		"list.inactiveSelectionBackground": "#181818",
 		"list.hoverBackground": "#161616",
 		"list.focusBackground": "#1e1e1e",
-
-		"tab.activeBackground": "#0e0e0e",
+		"tab.activeBackground": "#111111",
 		"tab.activeForeground": "#909090",
-		"tab.inactiveBackground": "#0e0e0e",
+		"tab.inactiveBackground": "#111111",
 		"tab.inactiveForeground": "#404040",
-		"tab.border": "#0e0e0e",
+		"tab.border": "#111111",
 		"tab.activeBorder": "#505050",
-		"tab.activeBorderTop": "#0e0e0e",
-
-		"editorGroupHeader.tabsBackground": "#0e0e0e",
+		"tab.activeBorderTop": "#111111",
+		"editorGroupHeader.tabsBackground": "#111111",
 		"editorGroup.border": "#1a1a1a",
-
-		"titleBar.activeBackground": "#0e0e0e",
+		"titleBar.activeBackground": "#111111",
 		"titleBar.activeForeground": "#606060",
-		"titleBar.inactiveBackground": "#0e0e0e",
+		"titleBar.inactiveBackground": "#111111",
 		"titleBar.inactiveForeground": "#404040",
-
-		"statusBar.background": "#0e0e0e",
+		"statusBar.background": "#111111",
 		"statusBar.foreground": "#404040",
-		"statusBar.noFolderBackground": "#0e0e0e",
+		"statusBar.noFolderBackground": "#111111",
 		"statusBar.debuggingBackground": "#909090",
-		"statusBar.debuggingForeground": "#0e0e0e",
-
+		"statusBar.debuggingForeground": "#111111",
 		"input.background": "#161616",
 		"input.foreground": "#909090",
 		"input.border": "#252525",
 		"input.placeholderForeground": "#404040",
 		"inputOption.activeBorder": "#909090",
-
 		"dropdown.background": "#161616",
 		"dropdown.foreground": "#909090",
 		"dropdown.border": "#252525",
-
 		"button.background": "#909090",
-		"button.foreground": "#0e0e0e",
+		"button.foreground": "#111111",
 		"button.hoverBackground": "#b0b0b0",
-
 		"scrollbar.shadow": "#00000000",
 		"scrollbarSlider.background": "#20202040",
 		"scrollbarSlider.hoverBackground": "#30303050",
 		"scrollbarSlider.activeBackground": "#40404060",
-
-		"panel.background": "#0e0e0e",
+		"panel.background": "#111111",
 		"panel.border": "#1a1a1a",
 		"panelTitle.activeForeground": "#909090",
 		"panelTitle.inactiveForeground": "#404040",
 		"panelTitle.activeBorder": "#505050",
-
-		"terminal.background": "#0e0e0e",
+		"terminal.background": "#111111",
 		"terminal.foreground": "#909090",
 		"terminalCursor.foreground": "#909090",
-
 		"gitDecoration.modifiedResourceForeground": "#606060",
 		"gitDecoration.deletedResourceForeground": "#505050",
 		"gitDecoration.untrackedResourceForeground": "#585858",
 		"gitDecoration.ignoredResourceForeground": "#303030",
-
 		"editorError.foreground": "#c47070",
 		"editorWarning.foreground": "#c4a050",
 		"editorInfo.foreground": "#6090c0",
-
 		"focusBorder": "#303030",
 		"widget.shadow": "#00000030",
-		"minimap.background": "#0e0e0e"
+		"minimap.background": "#111111"
 	},
 	"tokenColors": [
 		{
-			"name": "Comments - the only color, must stand out",
+			"name": "Comments",
 			"scope": [
 				"comment",
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#d4a050",
+				"foreground": "#686868",
 				"fontStyle": "italic"
 			}
 		},
@@ -124,8 +108,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#e8e8e8",
-				"fontStyle": "bold"
+				"foreground": "#e8e8e8"
 			}
 		},
 		{

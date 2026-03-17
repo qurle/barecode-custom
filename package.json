@@ -1,12 +1,12 @@
 {
-  "name": "barecode",
-  "displayName": "Barecode",
-  "description": "A minimal, monochrome VS Code theme. No syntax rainbow. Just focus.",
+  "name": "barecode-custom",
+  "displayName": "Barecode Soft",
+  "description": "Fork of barecode theme with softer contrasts.",
   "version": "1.0.1",
-  "publisher": "moondef",
+  "publisher": "qurle",
   "author": {
-    "name": "Stepan Samko",
-    "email": "hi@samko.io"
+    "name": "Nikita Denisov",
+    "email": "nick@qurle.net"
   },
   "license": "MIT",
   "icon": "images/icon.png",
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moondef/vscode-barecode-theme"
+    "url": "https://github.com/qurle/barecode-custom"
   },
   "bugs": {
-    "url": "https://github.com/moondef/vscode-barecode-theme/issues"
+    "url": "https://github.com/qurle/barecode-custom/vscode-barecode-theme/issues"
   },
-  "homepage": "https://github.com/moondef/vscode-barecode-theme#readme",
+  "homepage": "https://github.com/qurle/barecode-custom/vscode-barecode-theme#readme",
   "engines": {
     "vscode": "^1.60.0"
   },

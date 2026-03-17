@@ -1,9 +1,9 @@
 {
-	"name": "Barecode Light",
+	"name": "Barecode Soft Light",
 	"type": "light",
 	"semanticHighlighting": false,
 	"colors": {
-		"editor.background": "#f8f8f8",
+		"editor.background": "#f5f5f5",
 		"editor.foreground": "#606060",
 		"editorCursor.foreground": "#000000",
 		"editor.lineHighlightBackground": "#f0f0f0",
@@ -18,88 +18,72 @@
 		"editorWhitespace.foreground": "#e8e8e8",
 		"editorBracketMatch.background": "#e0e0e0",
 		"editorBracketMatch.border": "#b8b8b8",
-
-		"activityBar.background": "#f8f8f8",
+		"activityBar.background": "#f5f5f5",
 		"activityBar.foreground": "#909090",
 		"activityBar.inactiveForeground": "#c8c8c8",
 		"activityBarBadge.background": "#606060",
-		"activityBarBadge.foreground": "#f8f8f8",
-
-		"sideBar.background": "#f8f8f8",
+		"activityBarBadge.foreground": "#f5f5f5",
+		"sideBar.background": "#f5f5f5",
 		"sideBar.foreground": "#909090",
 		"sideBarTitle.foreground": "#707070",
-		"sideBarSectionHeader.background": "#f8f8f8",
+		"sideBarSectionHeader.background": "#f5f5f5",
 		"sideBarSectionHeader.foreground": "#707070",
-
 		"list.activeSelectionBackground": "#e8e8e8",
 		"list.activeSelectionForeground": "#404040",
 		"list.inactiveSelectionBackground": "#f0f0f0",
 		"list.hoverBackground": "#f0f0f0",
 		"list.focusBackground": "#e8e8e8",
-
-		"tab.activeBackground": "#f8f8f8",
+		"tab.activeBackground": "#f5f5f5",
 		"tab.activeForeground": "#505050",
-		"tab.inactiveBackground": "#f8f8f8",
+		"tab.inactiveBackground": "#f5f5f5",
 		"tab.inactiveForeground": "#b0b0b0",
-		"tab.border": "#f8f8f8",
+		"tab.border": "#f5f5f5",
 		"tab.activeBorder": "#909090",
-		"tab.activeBorderTop": "#f8f8f8",
-
-		"editorGroupHeader.tabsBackground": "#f8f8f8",
+		"tab.activeBorderTop": "#f5f5f5",
+		"editorGroupHeader.tabsBackground": "#f5f5f5",
 		"editorGroup.border": "#e8e8e8",
-
-		"titleBar.activeBackground": "#f8f8f8",
+		"titleBar.activeBackground": "#f5f5f5",
 		"titleBar.activeForeground": "#707070",
-		"titleBar.inactiveBackground": "#f8f8f8",
+		"titleBar.inactiveBackground": "#f5f5f5",
 		"titleBar.inactiveForeground": "#b0b0b0",
-
-		"statusBar.background": "#f8f8f8",
+		"statusBar.background": "#f5f5f5",
 		"statusBar.foreground": "#b0b0b0",
-		"statusBar.noFolderBackground": "#f8f8f8",
+		"statusBar.noFolderBackground": "#f5f5f5",
 		"statusBar.debuggingBackground": "#606060",
-		"statusBar.debuggingForeground": "#f8f8f8",
-
+		"statusBar.debuggingForeground": "#f5f5f5",
 		"input.background": "#ffffff",
 		"input.foreground": "#606060",
 		"input.border": "#e0e0e0",
 		"input.placeholderForeground": "#b0b0b0",
 		"inputOption.activeBorder": "#606060",
-
 		"dropdown.background": "#ffffff",
 		"dropdown.foreground": "#606060",
 		"dropdown.border": "#e0e0e0",
-
 		"button.background": "#606060",
-		"button.foreground": "#f8f8f8",
+		"button.foreground": "#f5f5f5",
 		"button.hoverBackground": "#404040",
-
 		"scrollbar.shadow": "#00000000",
 		"scrollbarSlider.background": "#c8c8c830",
 		"scrollbarSlider.hoverBackground": "#b8b8b840",
 		"scrollbarSlider.activeBackground": "#a8a8a850",
-
-		"panel.background": "#f8f8f8",
+		"panel.background": "#f5f5f5",
 		"panel.border": "#e8e8e8",
 		"panelTitle.activeForeground": "#606060",
 		"panelTitle.inactiveForeground": "#b0b0b0",
 		"panelTitle.activeBorder": "#909090",
-
-		"terminal.background": "#f8f8f8",
+		"terminal.background": "#f5f5f5",
 		"terminal.foreground": "#606060",
 		"terminalCursor.foreground": "#606060",
-
 		"gitDecoration.modifiedResourceForeground": "#707070",
 		"gitDecoration.deletedResourceForeground": "#a0a0a0",
 		"gitDecoration.untrackedResourceForeground": "#808080",
 		"gitDecoration.ignoredResourceForeground": "#c8c8c8",
-
 		"editorError.foreground": "#a05050",
 		"editorWarning.foreground": "#a08030",
 		"editorInfo.foreground": "#5070a0",
-
 		"focusBorder": "#d0d0d0",
 		"widget.shadow": "#00000006",
-		"minimap.background": "#f8f8f8"
+		"minimap.background": "#f5f5f5"
 	},
 	"tokenColors": [
 		{
@@ -109,7 +93,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#8a6b2a",
+				"foreground": "#888888",
 				"fontStyle": "italic"
 			}
 		},
@@ -124,8 +108,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#1a1a1a",
-				"fontStyle": "bold"
+				"foreground": "#1a1a1a"
 			}
 		},
 		{
