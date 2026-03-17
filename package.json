@@ -43,12 +43,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Barecode Dark",
+        "label": "Barecode Dark Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/Barecode-dark.json"
       },
       {
-        "label": "Barecode Light",
+        "label": "Barecode Light Soft",
         "uiTheme": "vs",
         "path": "./themes/Barecode-light.json"
       }

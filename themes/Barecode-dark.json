@@ -67,7 +67,7 @@
 		"scrollbarSlider.hoverBackground": "#30303050",
 		"scrollbarSlider.activeBackground": "#40404060",
 		"panel.background": "#111111",
-		"panel.border": "#1a1a1a",
+		"panel.border": "#111111",
 		"panelTitle.activeForeground": "#909090",
 		"panelTitle.inactiveForeground": "#404040",
 		"panelTitle.activeBorder": "#505050",
@@ -87,7 +87,7 @@
 	},
 	"tokenColors": [
 		{
-			"name": "Comments",
+			"name": "Commentst",
 			"scope": [
 				"comment",
 				"punctuation.definition.comment"
