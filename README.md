@@ -7,4 +7,4 @@ A personal opionated fork of the [Barecode theme](https://github.com/moondef/vsc
 
 ---
 
-Check [orinal repository](https://github.com/moondef/vscode-barecode-theme) for more information
+Check [original repository](https://github.com/moondef/vscode-barecode-theme) for more information
